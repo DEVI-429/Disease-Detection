@@ -63,5 +63,3 @@ Symptoms: List of symptoms
 
 - Assessment Components (Precision, Recall, P-R Curve, Mean Average Precision)
 
-# Github link
-https://github.com/Praghna2004/IR_Project
